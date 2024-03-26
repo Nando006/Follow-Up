@@ -1,4 +1,4 @@
-# Follow-Up
+# Follow Up
 - Follow-Up é um aplicativo de acompanhamento escolar, tendo como usuários pais/responsáveis e educadores, o objetivo do Follow-Up é aumentar o relacionamento entre pais/responsáveis e educadores, deixar os pais/responsáveis mais cientes de como a vida escolar do filho está.
 - O Follow-Up tem como objetivo também aumentar a produtividade dos educadores com os pais/responsáveis, o Follow-Up permite que educadores e pais/responsáveis conversem entre si, economizando tempo e esforço.
 ### Requisitos Funcionais
